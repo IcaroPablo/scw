@@ -1,0 +1,11 @@
+coleções usando pastas
+salvar requisições com um nome/alias e um template incluindo variáveis
+salvar o resultado em uma pasta de resultados com txts correspondentes às requisições
+editar as requisições usando o editor de texto padrão antes de serem enviadas
+pipe para o jq
+fzf para navegar nas coleções e nos aliases com preview dos items da coleção/conteúdo dos itens (em um curl simplificado ?)
+atalho para repetir a requisição em vez de reenviar
+comando para importação
+comando para exportação (usando os últimos valores setados) - caso default com quais valores ?
+edição/clonagem de aliases/requisições
+manter o wrapper funcionando numa única execução (como o LF)
