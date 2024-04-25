@@ -9,3 +9,5 @@ comando para importação
 comando para exportação (usando os últimos valores setados) - caso default com quais valores ?
 edição/clonagem de aliases/requisições
 manter o wrapper funcionando numa única execução (como o LF)
+
+https://github.com/danielgtaylor/restish
